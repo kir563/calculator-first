@@ -5,7 +5,10 @@ function calc(operation, a, b){
         case 'subtract': return a - b;
     }
 }
-
 console.log(calc('add', 2, 3));
 console.log(calc('multi', 2, 3));
 console.log(calc('subtract', 2, 3));
+
+
+
+//Test create new branch on gitHub
